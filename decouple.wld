@@ -1,5 +1,5 @@
-set mc = [calcul.MatriceCreuse]
-set mp = [calcul.MatricePleine]
+set mc = [ calcul.MatriceCreuse ]
+set mp = [ calcul.MatricePleine ]
 hide mc from mp;
 hide mp from mc;
 
